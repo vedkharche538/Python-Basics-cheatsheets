@@ -1,3 +1,3 @@
-# Python-Basics
-Basic python from scratch
-# Python-Basics
+# Python-Cheatsheets
+Basic python from scratch to advance
+# Python-Cheatsheets
